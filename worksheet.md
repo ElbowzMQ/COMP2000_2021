@@ -11,8 +11,8 @@ Take a look at the two repositories:
 
 And answer the following questions about them:
 
-  * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
-  *   Websites that allow for the hosting of version controlled documents
+  * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?\n
+      Websites that allow for the hosting of version controlled documents
       The commit history on bitbucket is more informative as it shows where the code has been forked and when it has been merged
       back into the codebase
   * Who made the last commit to repository A?
